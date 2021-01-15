@@ -13,10 +13,10 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* wifi_ssid = "BORIS1";
-const char* wifi_password = "D7F3CYJ49M1J";
-const char* clientID = "dht_user";
-const char* mqtt_server = "192.168.1.80";
+const char* wifi_ssid = "Yourwifi";
+const char* wifi_password = "YourWifiPassword";
+const char* clientID = "The_client_id_define_on_RabbitMQ"; //dht_user
+const char* mqtt_server = "your_mqtt_borker_adress";
 const int mqtt_port = 1883;
 const char* mqtt_user = "admin";
 const char* mqtt_password = "password";

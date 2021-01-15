@@ -5,6 +5,8 @@ Pour pouvoir relancer le projet, il faut se munir de quelques capteurs et module
 	- dht11 capteurs de température et d'humidité
 	- esp-01S (basé sur l'esp8266) module wifi
 	- une module alimentation pour breadboard/arduino (de préférence du 3.3V)
+	
+Nous utiliserons l'IDE d'Arduino afin de programmer nos différetns composants.
 
 ## Libraries
  Contient toutes  les librairies nécessaires à l'emploie du code sur l'IDE Arduino
